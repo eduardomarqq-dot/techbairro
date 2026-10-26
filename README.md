@@ -4,7 +4,7 @@ Sistema desktop de cadastro de clientes para a associação de moradores do
 bairro. Permite cadastrar, consultar, alterar e excluir clientes, com
 validação dos dados digitados.
 
-**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
+**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md) 
 
 ## Funcionalidades
 
