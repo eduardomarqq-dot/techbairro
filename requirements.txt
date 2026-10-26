@@ -1,0 +1,12 @@
+# TechBairro 3.3.2
+#
+# Este projeto NÃO tem dependências externas: não há nenhum pacote para instalar.
+# O comando "pip install -r requirements.txt" termina sem erro e sem instalar nada.
+#
+# O programa usa apenas módulos da biblioteca padrão do Python, que já vêm
+# instalados junto com o Python:
+#   tkinter  - interface gráfica (janela, botões, campos de texto)
+#   sqlite3  - banco de dados SQLite (arquivo local com os clientes)
+#
+# Requisito: Python 3.10 ou superior, com Tkinter funcionando
+# (teste com: python -m tkinter)                                                                    
